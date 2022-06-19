@@ -9,4 +9,3 @@ while i <= n:
   total = total + i
   i = i + 1
 print(total)
-#test
